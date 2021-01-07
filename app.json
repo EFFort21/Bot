@@ -13,11 +13,11 @@
   "env": {
     "API_URL": {
       "description": "The API URL [https://<heroku_app_name>.herokuapp.com/api]",    
-      "value": "http://localhost:3000/api/auth"
+      "value": "https://<heroku_app_name>.herokuapp.com/api"
     },    
     "BOT_ID": {
       "description": "Bot ID from https://discord.com/developers.",    
-      "value": "786786853760139294"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Bot Token from https://discord.com/developers.",    
@@ -25,11 +25,11 @@
     },
     "CLIENT_SECRET": {
       "description": "Client Secret from https://discord.com/developers.",    
-      "value": "669csFsuLgbeTWNoI9ZKU-FAAdGeUHWg"
+      "value": ""
     },
     "DASHBOARD_URL": {
       "description": "The Website URL [https://<heroku_app_name>.herokuapp.com]",    
-      "value": "http://localhost:4200/dashboard"
+      "value": "https://<heroku_app_name>.herokuapp.com"
     },
     "GUILD_ID": {
       "description": "Guild ID with the premium role in (optional).",    
@@ -38,11 +38,11 @@
     },
     "MONGO_URI": {
       "description": "The MongoDB URI to your database [i.e. from MongoDB Atlas].",
-      "value": "mongodb+srv://milou200750:pcadmin1@cluster0.bob0m.mongodb.net/<dbname>?retryWrites=true&w=majority"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "Discord bot owner ID.",    
-      "value": "784803346737266708",
+      "value": "",
       "required": false
     },
     "PORT": {
