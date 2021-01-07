@@ -21,7 +21,7 @@
     },
     "BOT_TOKEN": {
       "description": "Bot Token from https://discord.com/developers.",    
-      "value": "Nzg2Nzg2ODUzNzYwMTM5Mjk0.X9LeWw.FBLNe37I9P4aK5lCSbNk09cR9Ec"
+      "value": ""
     },
     "CLIENT_SECRET": {
       "description": "Client Secret from https://discord.com/developers.",    
