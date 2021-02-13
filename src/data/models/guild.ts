@@ -51,7 +51,7 @@ export enum MessageFilter {
 }
 
 export class GeneralModule extends Module {
-  prefix = '.';
+  prefix = '/';
   ignoredChannels: string[] = [];
   autoRoles: string[] = [];
 }
